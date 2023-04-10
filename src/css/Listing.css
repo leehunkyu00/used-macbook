@@ -1,0 +1,28 @@
+.listing {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.listing h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+.listing p {
+  margin-bottom: 0.5rem;
+}
+
+.listing button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.listing button:hover {
+  background-color: #3e8e41;
+}
